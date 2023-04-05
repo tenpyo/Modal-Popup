@@ -1,0 +1,157 @@
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">×</span>
+    <div class="popup-document__title">KEBIJAKAN PRIVASI</div>
+    <p class="popup-document__text">Kebijakan ini merupakan komitmen dari PT Mencari Cinta (<b>«Mencari Cinta»</b>) untuk mengumpulkan dan memproses data personal dengan tunduk kepada undang-undang dan peraturan terkait privasi data, termasuk Undang — Undang Indonesia Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi (<b>«UUPDP»</b>) dan peraturan-peraturan pelaksanaannya. Dalam pemrosesan data pribadi, kami berupaya mematuhi prinsip-prinsip umum transparansi, untuk tujuan yang sah, proposional dan prinsip-prinsip terkait lainnya dalam mengumpulkan, memproses dan menyimpan data pribadi sebagaimana diamanatkan oleh Undang-Undang. Pemberitahuan ini dan pembaharuannya atau tambahannya dapat dilihat di laman <a href="https://mencaricinta.com/">https://mencaricinta.com/</a>.</p>
+    <p class="popup-document__text">Mengakses dan menggunakan platform ini berarti Anda dianggap menyetujui terhadap semua kebijakan dan memberikan persetujuan untuk pengolahan data pribadi Anda.</p>
+    <p class="popup-document__text">Kebijakan Privasi ini (selanjutnya disebut sebagai <b>«Kebijakan»</b>) menetapkan langkah-langkah untuk memastikan keamanan Data Pribadi dan prosedur pengolahan Data Pribadi atas <b>Pengguna</b> oleh Mencari Cinta (selanjutnya disebut sebagai <b>«Penyelenggara Sistem Elektronik»</b>).</p>
+    
+    <div class="popup-document__subtitle">1. Konsep Dasar dalam Kebijakan</div>
+    <p class="popup-document__text">1.1. Situs web adalah seperangkat materi grafis dan informasi, serta program komputer dan basis data (database), memastikan ketersediaannya di Internet melalui alamat jaringan <a href="https://mencaricinta.com/">https://mencaricinta.com/</a>.</p>
+    <p class="popup-document__text">1.2. Depersonalisasi data pribadi merupakan suatu tindakan, yang mana tidak dimungkinkan untuk ditentukan tanpa adanya penggunaan informasi tambahan, kepemilikan atas Data Pribadi Pengguna tertentu dan/atau subjek data pribadi lainnya.</p>
+    <p class="popup-document__text">1.3. Pengolahan data pribadi adalah setiap tindakan apa pun (operasional) dan/atau serangkaian tindakan (operasional) yang dilakukan dengan atau tanpa adanya penggunaan alat otomasi dengan data pribadi, termasuk namun tidak terbatas pada pengumpulan, perekaman, sistematisasi, akumulasi, penyimpanan, klarifikasi (pembaruan, perubahan), ekstraksi, penggunaan, transfer (distribusi, penyediaan, akses), depersonalisasi, pemblokiran, penghapusan, penghancuran data pribadi.</p>
+    <p class="popup-document__text">1.4. Data Pribadi adalah seluruh informasi yang terkait secara langsung dan/atau tidak langsung dengan Pengguna tertentu dan/atau yang teridentifikasi.</p>
+    <p class="popup-document__text">1.5. Pengguna adalah seluruh klien yang menggunakan jasa Penyelenggara Sistem Elektronik.</p>
+    <p class="popup-document__text">1.6. Penyediaan Data Pribadi adalah setiap tindakan yang bertujuan untuk mengungkapkan Data Pribadi kepada orang tertentu dan/atau sekelompok orang tertentu.</p>
+    
+    <div class="popup-document__subtitle">2. Ketentuan Umum</div>
+    <p class="popup-document__text">2.1. Penyelenggara Sistem Elektronik menetapkan sebagai tujuan dan ketentuan terpenting dalam pelaksanaan kegiatannya dengan tetap memperhatikan hak dan kebebasan setiap individu dan warga negara dalam hal pemrosesan Data Pribadi, termasuk namun tidak terbatas pada perlindungan data privasi, rahasia pribadi dan keluarga.</p>
+    <p class="popup-document__text">2.2. Penyelenggara Sistem Elektronik akan memproses Data Pribadi Pengguna apabila telah dilakukan pengisian dan/atau pengiriman oleh Pengguna melalui formulir khusus yang terdapat di Situs Web, atau dalam proses memenuhi ketentuan kontrak dengan Pengguna.</p>
+    <p class="popup-document__text">2.3 Dengan mengisi formulir yang sesuai dan/atau mengirimkan Data Pribadi Pengguna kepada Penyelenggara Sistem Elektronik, Pengguna menyatakan persetujuannya terhadap Kebijakan ini (selanjutnya disebut <b>«Persetujuan»</b>) dan setuju untuk menerima buletin yang bersifat informasi.</p>
+
+    <div class="popup-document__subtitle">3. Tujuan Pengolahan Data Pribadi</div>
+    <p class="popup-document__text">3.1. Tujuan pengolahan Data Pribadi Pengguna adalah kesimpulan dan pelaksanaan kontrak antara Pengguna dan Penyelenggara Sistem Elektronik.</p>
+    <p class="popup-document__text">3.2. Dengan memberikan kesempatan kepada Pengguna untuk menggunakan Situs, Penyelenggara Sistem Elektronik akan bertindak secara wajar dan percaya bahwa Pengguna memiliki semua hak yang diperlukan yang mengizinkannya untuk mengalihkan Data Pribadi, menerima persetujuan akan pengolahan Data Pribadi.</p>
+    <p class="popup-document__text">3.3. Penyelenggara Sistem Elektronik tidak memverifikasi keakuratan informasi yang diterima (dikumpulkan) tentang Pengguna, kecuali dalam kasus ketika verifikasi tersebut diperlukan untuk tujuan memenuhi ketentuan peraturan perundang-undangan yang berlaku secara hukum dan / atau memenuhi kewajiban kepada Pengguna.</p>
+    <p class="popup-document__text">3.4. Penyelenggara Sistem Elektronik mengumpulkan dan menyimpan hanya Data Pribadi yang diperlukan untuk:</p>
+    <p class="popup-document__text popup-document__text_2">3.4.1. pelaksanaan ketentuan Kontrak dengan Pengguna;</p>
+    <p class="popup-document__text popup-document__text_2">3.4.2. distribusi materi informasi.</p>
+
+    <div class="popup-document__subtitle">4. Pemrosesan Data oleh Penyelenggara Sistem Elektronik</div>
+    <p class="popup-document__text">4.1. Penyelenggara Sistem Elektronik akan memproses Data Pribadi Pengguna antara lain sebagai berikut:</p>
+    <p class="popup-document__text popup-document__text_2">4.1.1. nama lengkap, nama keluarga;</p>
+    <p class="popup-document__text popup-document__text_2">4.1.2. alamat email;</p>
+    <p class="popup-document__text popup-document__text_2">4.1.3. Kontak nomor telepon;</p>
+    <p class="popup-document__text popup-document__text_2">4.1.4. tautan ke profil (halaman) di media sosial atau situs web;</p>
+    <p class="popup-document__text popup-document__text_2">4.1.5. foto dan / atau avatar;</p>
+    <p class="popup-document__text popup-document__text_2">4.1.6. usia, gender, dan tanggal lahir.</p>
+    <p class="popup-document__text">4.2. dan Informasi lain:</p>
+    <p class="popup-document__text popup-document__text_2">4.2.1. data dalam sarana teknis (perangkat): alamat IP host, jenis sistem operasi, jenis browser, lokasi geografis, penyedia jasa Internet, data yang diperoleh karena akses ke kamera, mikrofon, dan perangkat lainnya;</p>
+    <p class="popup-document__text popup-document__text_2">4.2.2. informasi tentang halaman-halaman Situs yang dikunjungi;</p>
+    <p class="popup-document__text popup-document__text_2">4.2.3. informasi yang diterima secara otomatis ketika mengakses Situs menggunakan bookmark (cookie).</p>
+
+    <div class="popup-document__subtitle">5. Keamanan Data Pribadi</div>
+    <p class="popup-document__text">5.1. Saat memproses Data Pribadi, Penyelenggara Sistem Elektronik dapat mengambil langkah-langkah yang berkaitan dengan hukum, organisasi, dan teknis yang diperlukan untuk melindungi Data Pribadi terhadap akses yang tidak sah dan/atau tidak disengaja ke mereka, serta penghancuran, modifikasi, pemblokiran, penyalinan, penyediaan, penyebaran Data Pribadi, serta dari tindakan ilegal lainnya sehubungan dengan Data Pribadi. Penyelenggara Sistem Elektronik dapat mengambil langkah-langkah sebagai berikut:</p>
+    <p class="popup-document__text popup-document__text_2">5.1.1. memastikan keamanan Data Pribadi dan mengambil seluruh kemungkinan langkah untuk mengecualikan akses ke data pribadi kepada orang yang tidak berwenang;</p>
+    <p class="popup-document__text popup-document__text_2">5.1.2. mengidentifikasi ancaman terhadap keamanan Data Pribadi ketika Data Pribadi tersebut diproses dalam sistem informasi Data Pribadi;</p>
+    <p class="popup-document__text popup-document__text_2">5.1.3. menilai efektivitas terhadap langkah-langkah yang diambil untuk memastikan keamanan Data Pribadi sebelum pengoperasian sistem informasi Data Pribadi;</p>
+    <p class="popup-document__text popup-document__text_2">5.1.4. menyimpan catatan pembawa data pribadi berbasis mesin;</p>
+    <p class="popup-document__text popup-document__text_2">5.1.5. mendeteksi fakta-fakta terhadap akses yang tidak sah menuju data pribadi dan mengambil tindakan yang diperlukan.</p>
+    <p class="popup-document__text">5.2. Penyelenggara Sistem Elektronik memiliki hak untuk mengalihkan Data Pribadi Pengguna tanpa persetujuan Pengguna kepada orang-orang berikut:</p>
+    <p class="popup-document__text popup-document__text_2">5.2.1. Badan-badan pemerintahan termasuk badan penegak hukum, pejabat pemerintah pusat atau lokal, badan-badan resmi, kenegaraan, serta badan yudisial, sehubungan dengan mana Penyelenggara Sistem Elektronik berkewajiban untuk menyediakan informasi atas permintaan sesuai dengan hukum yang berlaku;</p>
+    <p class="popup-document__text popup-document__text_2">5.2.2. Kepada penyedia jasa dari Penyelenggara Sistem Elektronik untuk memenuhi kewajiban Kontrak kepada Pengguna.</p>
+    <p class="popup-document__text popup-document__text_2">5.2.3. Petugas-petugas dari Penyelenggara Sistem Elektronik untuk melaksanakan kewajiban Penyelenggara Sistem Elektronik kepada Pengguna.</p>
+
+    <div class="popup-document__subtitle">6. Prosedur Mengajukan Ulasan</div>
+    <p class="popup-document__text">6.1. Dalam hal Penyelenggara Sistem Elektronik menerima permintaan setelah mencabut persetujuan untuk pengolahan Data Pribadi maka Penyelenggara Sistem Elektronik dapat menanggapi permintaan dan/atau menghentikan pengolahan, kecuali dalam hal terdapat kasus yang mana kelanjutan pengolahan secara langsung diperbolehkan menurut Hukum.</p>
+    <p class="popup-document__text">6.2. Sehubungan dengan Pasal 6 ayat 1, Pengguna memiliki hak untuk mengirim permintaan dan/atau persetujuan penarikan kepada Penyelenggara Sistem Elektronik untuk pengolahan Data Pribadi dalam Pasal 4, secara tertulis ke alamat berikut:</p>
+    <p class="popup-document__text">
+    <b>PT mencari cinta</b> <br>
+    Antartika, Georgetown, <br>
+    Email: <a href="mailto:support@mencaricinta">support@mencaricinta</a>
+    </p>
+    <p class="popup-document__text">6.3. Permintaan/ umpan balik yang dikirim oleh Pengguna harus berisikan informasi antara lain sebagai berikut:</p>
+    <p class="popup-document__text popup-document__text_2">6.3.1. nomor dokumen identitas utama Pengguna atau perwakilannya;</p>
+    <p class="popup-document__text popup-document__text_2">6.3.2. informasi tentang tanggal penerbitan dokumen yang telah ditentukan dan otoritas penerbitnya;</p>
+    <p class="popup-document__text popup-document__text_2">6.3.3. informasi yang mengkonfirmasi partisipasi Pengguna dalam hubungan dengan Penyelenggara Sistem Elektronik;</p>
+    <p class="popup-document__text popup-document__text_2">6.3.4. tanda tangan Pengguna atau perwakilannya.</p>
+    <p class="popup-document__text">6.4. Penyelenggara Sistem Elektronik berjanji untuk mempertimbangkan dan mengirim tanggapan terhadap permintaan Pengguna yang diterima dalam waktu 30 (tiga puluh) hari kalender sejak tanggal diterimanya permintaan tersebut.</p>
+    <p class="popup-document__text">6.5. Pengguna dapat memilih keluar dari buletin yang bersifat informasi dengan mengirimkan penolakan ke alamat email: <a href="mailto:support@mencaricinta">support@mencaricinta</a></p>
+
+    <div class="popup-document__subtitle">7. Penutup</div>
+    <p class="popup-document__text">7.1. Kebijakan ini dan hubungan antara Pengguna dan Penyelenggara Sistem Elektronik yang timbul sehubungan dengan penerapan atas Kebijakan tunduk pada Hukum Negara Republik Indonesia.</p>
+    <p class="popup-document__text">7.2. Seluruh kemungkinan perselisihan tunduk pada resolusi yang sesuai dengan Undang-Undang di tempat registrasi Penyelenggara Sistem Elektronik. Sebelum mengajukan permohonan ke pengadilan, Pengguna harus mematuhi prosedur wajib pra-persidangan dan mengirim klaim yang sesuai kepada Penyelenggara Sistem Elektronik secara tertulis. Periode respons terhadap klaim adalah 30 (tiga puluh) hari kerja.</p>
+    <p class="popup-document__text">7.3. Penyelenggara Sistem Elektronik berhak untuk membuat perubahan pada setiap Kebijakan dan Pengguna akan menerima terhadap setiap teks Kebijakan pada setiap penggunaan baru Situs.</p>
+    <p class="popup-document__text">7.4. Versi baru Kebijakan ini mulai berlaku sejak diposting di bagian yang sesuai pada Situs. Setiap perubahan pada Kebijakan sejak masa berlakunya, berlaku sama untuk seluruh Pengguna, termasuk mereka yang bergabung dengan Peraturan terdahulu dari tanggal mulai berlakunya perubahan. Jika Pengguna tidak setuju dengan perubahan dan penambahan yang dilakukan, Pengguna berhak untuk mengirim penarikan Persetujuan kepada Penyelenggara Sistem Elektronik dengan cara yang diatur dalam Pasal 6 dari Kebijakan. Ketiadaan tindakan oleh Pengguna yang ditentukan dalam paragraf ini akan dianggap sebagai penerimaan terhadap versi baru dan perubahan lainnya pada Kebijakan.</p>
+    <p class="popup-document__text">7.5. Pengguna dengan ini berjanji untuk melakukan pengecekan secara berkala atas setiap perubahan pada Kebijakan Privasi.</p>
+
+</div>
+<style>
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10001; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.popup-document__title {
+    color: #458AF3;
+    font-size: 36px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0 0 30px;
+}
+</style>
+<script>
+// Get the modal
+var modal = document.querySelector("#myModal");
+
+// Get the button that opens the modal
+var btns = document.querySelectorAll(".myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+[].forEach.call(btns, function(el) {
+  el.onclick = function() {
+      modal.style.display = "block";
+  }
+})
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
